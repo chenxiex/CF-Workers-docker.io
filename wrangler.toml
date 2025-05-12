@@ -1,0 +1,3 @@
+name = "cfd"
+compatibility_date = "2025-05-12"
+main = "_worker.js"
